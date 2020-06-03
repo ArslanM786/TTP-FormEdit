@@ -1,0 +1,10 @@
+.style{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10rem;
+}
+
+
+.firstname, .lastname{
+    padding-bottom: 15px;
+}
